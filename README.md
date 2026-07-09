@@ -62,7 +62,7 @@ AI-Spam-Message-Detector/
 ├── spamdetect.py
 ├── spam.csv
 ├── requirements.txt
-└── README.md
+└── readme.md
 ```
 
 ---
