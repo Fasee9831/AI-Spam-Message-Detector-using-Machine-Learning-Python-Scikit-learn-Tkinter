@@ -72,7 +72,7 @@ AI-Spam-Message-Detector/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Spam-Message-Detector.git
+git clone https://github.com/Fasee9831/AI-Spam-Message-Detector-using-Machine-Learning-Python-Scikit-learn-Tkinter.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
